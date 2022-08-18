@@ -9,3 +9,5 @@ This project will randomly generate a password depending on the number of charac
 ![ScreenShot](/assets/screenshot.png)
 
 ## Deployed Application Link
+
+https://stevenss04.github.io/Password-Generator/
